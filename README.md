@@ -1,4 +1,4 @@
-#**Bamazon**
+# **Bamazon**
 MySQL CLI App
 
 
@@ -14,24 +14,24 @@ to the item they are interested in. The user is then prompted to select their it
 
 * **The Manager**
 
-The Manager interface like the Customer interface also allows the user to view the current inventory of the 
+The Manager interface like the Customer interface which also allows the user to view the current inventory of the 
 store in the friendly back-end table display. The user has three options Restock current Inventory, Add a New Product and Remove Obsolete Inventory. This is done by selecting the item id and choosing one of the available
 options. Once their selection is complete **A**) A new item is added to the current inventory **B**) A current item gets restocked and **C**) An obsolete item gets removed from the inventory as we all know to well the losses this causes for any company.
 
-###NPM Packages Used
+### NPM Packages Used
 
 * MySql
 * Inquirer
 * CLI-Table
 
 
-###Bamazon Demo
+### Bamazon Demo
 
-* ###The Customer - https://youtu.be/2A15taKPgJY
+* ###The Customer - (https://youtu.be/2A15taKPgJY)
 
 
 
-* ###The Manager - https://youtu.be/RAcI8owaDcw
+* ###The Manager - (https://youtu.be/RAcI8owaDcw)
 
 
 

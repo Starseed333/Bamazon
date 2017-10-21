@@ -27,11 +27,11 @@ options. Once their selection is complete **A**) A new item is added to the curr
 
 ### Bamazon Demo
 
-* ###The Customer - (https://youtu.be/2A15taKPgJY)
+* #### The Customer - [YouTube] https://youtu.be/2A15taKPgJY
 
 
 
-* ###The Manager - (https://youtu.be/RAcI8owaDcw)
+* #### The Manager - [YouTube] https://youtu.be/RAcI8owaDcw
 
 
 
